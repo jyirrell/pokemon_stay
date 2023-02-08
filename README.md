@@ -1,2 +1,2 @@
 # pokemon_stay
-DSI project 1 - Pokemon stay
+Project number 1 from my Data Science Immersive course with General Assembly
